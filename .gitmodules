@@ -1,3 +1,6 @@
 [submodule "AgenticAI-Financial_Agent_Phidata"]
 	path = AgenticAI-Financial_Agent_Phidata
 	url = git@github.com:Rishav-Paramhans/AgenticAI-Financial_Agent_Phidata.git
+[submodule "Resturant_Receptionist_AI_Agent"]
+	path = Resturant_Receptionist_AI_Agent
+	url = git@github.com:Rishav-Paramhans/Resturant_Receptionist_AI_Agent.git
