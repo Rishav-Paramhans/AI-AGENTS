@@ -1,0 +1,3 @@
+[submodule "AgenticAI-Financial_Agent_Phidata"]
+	path = AgenticAI-Financial_Agent_Phidata
+	url = git@github.com:Rishav-Paramhans/AgenticAI-Financial_Agent_Phidata.git
