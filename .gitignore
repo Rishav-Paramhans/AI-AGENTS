@@ -1,4 +1,5 @@
 .venv/
+venv/
 data/
 credentials/
 # Ignore Python bytecode files
